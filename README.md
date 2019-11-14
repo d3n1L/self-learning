@@ -1,1 +1,1 @@
-# self-learnings
+# self-learning
